@@ -22,7 +22,7 @@ An example of additionalAttributes
 
 
 ## Approach used in the notebook
-``- Data understanding
+  - Data understanding
   - Data Cleaning
   - Applying ML models for classification
   - Perform analysis on accuracy
