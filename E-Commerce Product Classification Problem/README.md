@@ -11,11 +11,22 @@ An example of additionalAttributes
 
   
 
-3. label   - The class to which a product belongs. Values belong to the finite set (‘books’,’music’,
-         ‘videos’,’rest’)
+3. label   - The class to which a product belongs. Values belong to the finite set (â€˜booksâ€™,â€™musicâ€™,
+         â€˜videosâ€™,â€™restâ€™)
 
     The problem statement is to  classify the products into any one of the buckets 
 (i)   Books
 (ii)  Music
 (iii)  Videos
-(iv)  Rest    -  A default class for products which doesn’t belong to (i),(ii) or (iii)  category.
+(iv)  Rest    -  A default class for products which doesnâ€™t belong to (i),(ii) or (iii)  category.
+
+
+## Approach used in the notebook
+``- Data understanding
+  - Data Cleaning
+  - Applying ML models for classification
+  - Perform analysis on accuracy
+ 
+ ## Further improvements
+  - Avoid overfitting using cross-fold validation technique
+  - Approach for feature selection
