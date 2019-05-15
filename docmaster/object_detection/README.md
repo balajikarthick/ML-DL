@@ -4,7 +4,7 @@
 Docmaster is a deep learning model to detect field items like "Ship to", "Bill to", "Invoice Number" and table header from the invoice documents. 
 
 <p align="center">
-  <img src="g3doc/img/kites_detections_output.jpg" width=676 height=450>
+  <img src="result.jpeg" width=550 height=600>
 </p>
 
 The model has been trained with generic invoice templates downloaded from various websites and labeled using LabelImg python package.
